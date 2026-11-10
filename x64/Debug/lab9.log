@@ -1,0 +1,3 @@
+﻿  code.c
+D:\ВГТУ\ОПиА\Лабы\lab9\lab9\code.c(17,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  lab9.vcxproj -> D:\ВГТУ\ОПиА\Лабы\lab9\x64\Debug\lab9.exe
